@@ -8,7 +8,7 @@ public class StringPOC {
 		
 		System.out.println(formattedStr);
 		
-		
+	        str = "change 1";	
 		str = "This is %s more tests %s";
 	}
 }
